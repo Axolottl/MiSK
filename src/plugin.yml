@@ -3,4 +3,4 @@ version: 1.0.0
 author: Moderocky
 main: com.moderocky.misk.MiSK
 api-version: 1.14
-website: https://moderocky.com
+softdepend: [Skript, Towny, ProjectKorra]
